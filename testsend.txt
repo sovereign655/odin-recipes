@@ -1,0 +1,2 @@
+this is a test file to send to my repository through git to list on github.
+If this file is seen on my github reposit, I have set it up correctly.
