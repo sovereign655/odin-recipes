@@ -1,3 +1,6 @@
 this is a test file to send to my repository through git to list on github.
 If this file is seen on my github reposit, I have set it up correctly.
 update to save new text, 2nd test
+this is a test to see if i'm back in my Odin-recipes
+repo on github, if this file is edited it worked. if not, we have
+bigger problems...
