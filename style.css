@@ -19,12 +19,18 @@ body {
     margin: 20px 0; /* Adds vertical margin (20px) and no horizontal margin (0) */
 }
 
-/* Styles for the recipe list */
+/* Styles for the recipe list and listed ingredients */
 .recipe-list {
     border-style: solid; /* Sets the border style */
     border-color: #fca311; /* Sets the border color */
     list-style: none; /* Removes the default list-style */
-    padding: 10px; /* Adds padding around the recipe list */
+    padding: 10px; /* Adds padding around the recipe lists */
+}
+
+.recipe-steps {
+    border-style: solid; /* Sets the border style */
+    border-color: #fca311; /* Sets the border color */
+    padding: 40px; /* Adds padding around the recipe steps */
 }
 
 /* Styles for each recipe item in the list */
