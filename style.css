@@ -1,0 +1,55 @@
+/* Global styles for the page body */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 50px; /* Adds padding around the content */
+    background-color: rgb(198, 161, 66); /* Adds a background color for the body of the page*/
+    text-align: center; /* Center-aligns the content */
+    color: beige; /*sets the base text color for the page body*/
+}
+
+/* Styles for the page title */
+.page-title {
+    margin-top: 30px; /* Adds top margin to the page title */
+}
+
+/* Styles for the chef image */
+.chef-img {
+    max-width: 300px; /* Limits the maximum width of the image */
+    margin: 20px 0; /* Adds vertical margin (20px) and no horizontal margin (0) */
+}
+
+/* Styles for the recipe list */
+.recipe-list {
+    border-style: solid; /* Sets the border style */
+    border-color: #fca311; /* Sets the border color */
+    list-style: none; /* Removes the default list-style */
+    padding: 10px; /* Adds padding around the recipe list */
+}
+
+/* Styles for each recipe item in the list */
+.recipe-list li {
+    margin: 10px 0; /* Adds vertical margin (10px) and no horizontal margin (0) between recipe items */
+}
+
+/* Styles for the recipe links */
+.recipe-link {
+    display: block; /* Makes the link a block-level element */
+    text-decoration: none; /* Removes underline from the link */
+    color: #333; /* Sets the link text color */
+    background-color: #fca311; /* Sets the link background color */
+    padding: 10px 20px; /* Adds padding around the link */
+    border-radius: 5px; /* Rounds the link corners */
+    transition: background-color 0.3s ease; /* Adds a smooth transition effect for the background color change */
+}
+
+/* Styles for the recipe links on hover */
+.recipe-link:hover {
+    background-color: #e76f51; /* Changes the background color on hover */
+}
+
+/* Styles for the section title */
+.section-title {
+    margin-top: 30px; /* Adds top margin to the section title */
+    color: #ffffff; /* Sets the section title color */
+}
